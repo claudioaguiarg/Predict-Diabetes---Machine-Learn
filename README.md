@@ -45,3 +45,10 @@ Cada modelo tem suas próprias características e pode oferecer insights diferen
 ## Contribuições
 
 A diabetes é um desafio global e a pesquisa nessa área é fundamental. Este projeto é um esforço colaborativo e a comunidade é encorajada a contribuir. Seja clonando, modificando, ou enviando pull requests, sua contribuição é muito bem-vinda!
+
+## Equipe envolvida no projeto
+
+- Cláudio Aguiar
+- Victor Alexandre
+- Iris Pires
+- Clério Fernandes
